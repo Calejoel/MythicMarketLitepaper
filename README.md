@@ -1,19 +1,19 @@
-# MythicMarketLitepaper
-White Paper for Mythic Market platform
-
 Mythic Market Litepaper
 
 A Community-Driven Platform for Micro Meme Coin Collectibles on Solana
 
+
 1. Introduction
 
 Mythic Market is a community-driven platform featuring low-supply micro meme coin collectibles on Solana, each inspired by mythical gods and launched through transparent community voting. We blend scarcity and fair-launch principles to create truly collectible tokens that reward early believers and foster genuine market-driven price discovery.
+
 
 2. Vision & Mission
 
 Vision: Restore trust and integrity to crypto collectibles by ensuring fairness, transparency, and community governance.
 
 Mission: Launch a series of 5,000-supply tokens with locked liquidity, no private allocations, and ongoing buybacks and burns, empowering holders and building long-term value.
+
 
 3. Core Principles
 
@@ -28,6 +28,7 @@ Locked Liquidity: Secured LP prevents rug pulls and safeguards community interes
 Designed Scarcity: Fixed supply of 5,000 tokens per collectible promotes rarity and sustainable value.
 
 Community First: Governance and future direction are driven by collective engagement and market feedback.
+
 
 4. How Mythic Market Works
 
@@ -45,6 +46,7 @@ Buybacks & Burns: Announced buyback programs consume trading fees to burn tokens
 
 Community Voting: Prior to each launch, token themes (e.g., Zeus, Thor) are chosen by the community via polls, eventually voting integrated on Mythic Market website.
 
+
 5. Key Highlights
 
 Fixed 5,000 Supply: Ensures collectible scarcity and true price discovery.
@@ -56,6 +58,7 @@ Locked Liquidity: Guarantees market integrity and holder protection.
 Strategic Burns: Announced buybacks and burns strengthen rarity.
 
 Flexible Pools: SOL/USDC dual or SOL-only pools optimize for fairness and liquidity.
+
 
 6. Roadmap
 
@@ -89,6 +92,7 @@ Launch peer-to-peer swapping on the Mythic Market website. Enable direct token p
 
 As community demand grows
 
+
 7. Token Standards & Specifications
 
 Chain: Solana
@@ -101,6 +105,7 @@ Liquidity Pools: SOL/USDC dual or SOL-only via Meteora Dynamic AMM (v1 or v2)
 
 Lock Period: Weeks/Months at launch. Always will be relocked, no liquidity ever will be withdrawn by Mythic Market. Once we expand will be locked for 1 year minimum on each launch, or permanently.
 
+
 8. Community & Governance
 
 Discord & Telegram: Real-time discussions, AMA sessions, and development updates.
@@ -108,6 +113,7 @@ Discord & Telegram: Real-time discussions, AMA sessions, and development updates
 X (Twitter): Official announcements, vote calls, and community highlights.
 
 Voting Mechanism: Straw poll while early, On site polls eventually decide upcoming token themes and strategic parameters.
+
 
 9. Risks & Disclaimer
 
